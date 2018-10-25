@@ -9,8 +9,3 @@ manage just continuous opreations, just sum and multiplication.
 Other structure of learning is the autoencoder structure to generate a series of time in order to predict
 with certain order of accuracy unknown data.
 Our editor/compiler is Borlan C.
-I am advanced undergraduate Mathematics student in Yachay Tech University in Urcuqui-Ecuador.
-I hope to continue my studies in Computational Mathematics
-angeladrainrojasjim@gmail.com
-angel.rojas@yachaytech.edu.ec
-+593 978727586 
